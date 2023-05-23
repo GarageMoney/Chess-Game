@@ -23,7 +23,7 @@ A video demonstration is available at this link: https://youtu.be/wH4m0pCEYDE
 
 ## Dependencies
 
-The project code relies on the following external libraries:
+The source code relies on the following external libraries:
 
 - SDL2
 - SDL image
