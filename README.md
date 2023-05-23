@@ -19,7 +19,7 @@ A video demonstration is available at this link: https://youtu.be/wH4m0pCEYDE
 - Play chess against another person or against a built-in engine.
 - Enjoy a visually appealing interface with sound effects.
 - Simple and intuitive controls for placing pieces and navigating the game.
-- Supports undo and redo functionality for easier move management.
+- Supports undo and redo functionality for casual gameplay.
 
 ## Dependencies
 
